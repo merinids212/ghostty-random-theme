@@ -1,6 +1,6 @@
 # ghostty-random-theme
 
-A random [Ghostty](https://ghostty.org) theme on every new terminal session.
+A random [Ghostty](https://ghostty.org) theme on every new terminal session. [**Demo**](https://merinids212.github.io/ghostty-random-theme/)
 
 Each time you open a new tab, window, or split, a theme is picked at random from Ghostty's 400+ built-in themes and applied instantly via OSC escape sequences. No config files are modified — colors are set in-memory for that session only.
 
